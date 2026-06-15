@@ -1,0 +1,10 @@
+
+pandas
+numpy
+networkx
+streamlit
+chromadb
+sentence-transformers
+transformers
+peft
+torch
